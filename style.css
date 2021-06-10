@@ -30,4 +30,8 @@ height:40px;
 width:100px;
 text-align: center;}
 
-      
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: rgb(240, 82, 9);
+    }
+  }
